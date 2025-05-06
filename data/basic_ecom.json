@@ -1,0 +1,162 @@
+{
+    "users": [
+        {
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey there",
+                "Good day",
+                "Is anyone there?"
+            ],
+            "responses": [
+                "Hello! Welcome to Second Story Market. How can I help you today?",
+                "Hi there! What can I do for you?",
+                "Hey! Looking for something special?"
+            ],
+            "tag": "greeting"
+        },
+        {
+            "patterns": [
+                "Bye",
+                "See you",
+                "Goodbye",
+                "Talk later"
+            ],
+            "responses": [
+                "Goodbye! Thanks for stopping by.",
+                "See you soon! Come back anytime.",
+                "Bye! Have a great day."
+            ],
+            "tag": "goodbye"
+        },
+        {
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "Thanks a lot",
+                "Appreciate it"
+            ],
+            "responses": [
+                "You’re welcome!",
+                "Happy to help!",
+                "Anytime! Let me know if you need anything else."
+            ],
+            "tag": "thanks"
+        },
+        {
+            "patterns": [
+                "What are your hours?",
+                "When are you open?",
+                "Store hours",
+                "Opening times"
+            ],
+            "responses": [
+                "We’re open every day from 9 AM to 9 PM.",
+                "Our store hours are 9 AM–9 PM daily."
+            ],
+            "tag": "store_hours"
+        },
+        {
+            "patterns": [
+                "Do you ship?",
+                "What are your shipping options?",
+                "Shipping times",
+                "How long does shipping take?"
+            ],
+            "responses": [
+                "We offer standard and express shipping across South Africa. Standard takes 3-5 business days, express is 1-2 days.",
+                "Shipping options: Standard (3-5 days) and Express (1-2 days). Free on orders over R750."
+            ],
+            "tag": "shipping"
+        },
+        {
+            "patterns": [
+                "What is your return policy?",
+                "Can I return an item?",
+                "How do I make a return?",
+                "Returns"
+            ],
+            "responses": [
+                "You can return any item within 14 days of purchase in its original condition for a full refund or exchange.",
+                "Returns are accepted within 14 days. Please use our online return portal to generate a free return label."
+            ],
+            "tag": "return_policy"
+        },
+        {
+            "patterns": [
+                "What payment do you accept?",
+                "Do you accept credit cards?",
+                "Can I pay with MasterCard?",
+                "Payment options"
+            ],
+            "responses": [
+                "We accept Visa, MasterCard, Amex, and EFT. Apple Pay and Google Pay available on mobile.",
+                "Payment options include Visa, MasterCard, Amex, and direct EFT."
+            ],
+            "tag": "payment_methods"
+        },
+        {
+            "patterns": [
+                "Any promo codes?",
+                "Discount codes",
+                "Do you have promotions?",
+                "Any sales going on?"
+            ],
+            "responses": [
+                "Use code SECONDSTORY10 for 10% off your first order!",
+                "Yes – get 15% off on orders over R1000 with code SAVE15."
+            ],
+            "tag": "promo_codes"
+        },
+        {
+            "patterns": [
+                "Is this in stock?",
+                "Do you have [product name]?",
+                "Product availability",
+                "Can I buy [item]?"
+            ],
+            "responses": [
+                "Let me check our inventory… Yes, it’s in stock and ready to ship!",
+                "That item is currently out of stock, but we expect new stock next week."
+            ],
+            "tag": "product_availability"
+        },
+        {
+            "patterns": [
+                "Where is my order?",
+                "Track order",
+                "Order status",
+                "My order number"
+            ],
+            "responses": [
+                "Please provide your order number and I’ll check the status for you.",
+                "Just share your order ID, and I’ll let you know where it is."
+            ],
+            "tag": "order_status"
+        },
+        {
+            "patterns": [
+                "What size should I get?",
+                "Size chart",
+                "How does your sizing run?"
+            ],
+            "responses": [
+                "Our sizing runs true to standard. You can view the full size chart here: [link].",
+                "Check our size guide here: [link]. Feel free to ask if you need help measuring!"
+            ],
+            "tag": "size_guidance"
+        },
+        {
+            "patterns": [
+                "Where are you located?",
+                "Store location",
+                "Physical store address"
+            ],
+            "responses": [
+                "We’re based in Cape Town (Woodstock). Our pop-up shop is at 123 Main St, Woodstock.",
+                "Our office is in Woodstock, Cape Town. We currently sell online and via pop-ups."
+            ],
+            "tag": "location"
+        }
+    ]
+}
