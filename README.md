@@ -137,12 +137,3 @@ This MVP currently handles questions like:
 We're building socially conscious digital products for **students, professionals**, and **value-driven buyers**. This chatbot is just one part of a larger suite of tools aimed at transforming how users interact with **affordable, quality** second-hand products across **South Africa**.
 
 This repo is part of our public learning and contribution archive.
-
----
-
-## 📩 Contact
-
-**Thabang Kganana**
-Digital Implementation & Data | Second Story Collection
-📍 Cape Town, South Africa
-[LinkedIn](https://www.linkedin.com/in/thabang-kganana/)
