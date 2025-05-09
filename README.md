@@ -33,20 +33,7 @@ You must use **Python 3.6.x** for compatibility with `tflearn`.
 
 Install dependencies with:
 
-```bash
 pip install tflearn==0.3.2 tensorflow==1.15 nltk numpy
-
-Sure! Here's a clean, direct, and professional `README.md` for your GitHub repo. It's tailored to your **eCommerce chatbot MVP** for *Second Story Collection*, and speaks to a developer, stakeholder, or potential contributor who's reviewing your proof-of-concept:
-
-## ⚙️ Requirements
-
-You must use **Python 3.6.x** for compatibility with `tflearn`.
-
-Install dependencies with:
-
-```bash
-pip install tflearn==0.3.2 tensorflow==1.15 nltk numpy
-````
 
 ---
 
